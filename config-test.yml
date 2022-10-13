@@ -1,0 +1,2 @@
+config:
+  info: "my-springCloud-config , version = 1 , now=yes , test"
