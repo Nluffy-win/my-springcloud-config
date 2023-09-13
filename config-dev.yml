@@ -1,2 +1,2 @@
 config:
-  info: "my-springCloud-config , version = 1 , now=yes , dev"
+  info: "my-springCloud-config , version = 1 , now=yes , dev , learnTime = 2023-09-13"
